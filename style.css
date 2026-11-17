@@ -72,3 +72,6 @@ p {
    font-size: 17px;
    line-height: normal;
 }
+.contenido {
+   display:flow-root;
+}
