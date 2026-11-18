@@ -113,6 +113,7 @@ footer {
 .contenido ul {
    overflow: hidden;
    padding-left: 20px;
+   padding-right: 100px;
 }
 .p-texto {
    font-family: Arial, Helvetica, sans-serif;
@@ -127,9 +128,9 @@ border-bottom: 3px solid #ccc;
 .libro-romance {
 margin-bottom: 30px;
 padding-bottom: 20px;
-border-bottom: 3px solid #6c5a08;
+border-bottom: 3px solid #fff;
 }
-.libro-contemporaneo {
+.libro-contemporaneos {
 margin-bottom: 30px;
 padding-bottom: 20px;
 border-bottom: 3px solid #ccc;
