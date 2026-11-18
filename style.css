@@ -83,6 +83,9 @@ li {
 
 
 .dos {
-   background-color: rgb(255, 205, 232);
+   background-color: #645257;
    padding: 20px;
+}
+.dos p {
+   color: whitesmoke;
 }
