@@ -96,3 +96,6 @@ h4 {
     padding-top: 20px;
    font-size: 17px;
 }
+.contenido {
+   border-image: 10px white;
+}
