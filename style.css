@@ -63,7 +63,7 @@ float: left;
 margin-right: 20px;
 margin-left: 20px;
 padding-bottom: 20px;
-border: white 10px;
+border: white solid 10px;
 }
 .contenido p {
    text-align: justify;
@@ -95,7 +95,4 @@ h4 {
     margin: 0;
     padding-top: 20px;
    font-size: 17px;
-}
-.contenido {
-   border-image: 10px white;
 }
