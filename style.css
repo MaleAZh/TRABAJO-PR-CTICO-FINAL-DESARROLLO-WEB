@@ -26,7 +26,19 @@ h2 {
      border: 10px white solid;
 
    }
+   nav.menu ul {
+display: flex;
+list-style: georgian;
+padding: 20px;
+margin: 0px;
+gap: 30px;
+justify-content: center;
+   }
 
+   nav.menu li a :hover {
+      color: white;
+text-decoration: underline;
+   }
 h3 {
    font-family: Arial, sans-serif;
     margin: 0;
