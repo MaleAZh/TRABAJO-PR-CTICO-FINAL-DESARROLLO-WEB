@@ -135,15 +135,15 @@ footer {
 .libro-item {
 margin-bottom: 30px;
 padding-bottom: 20px;
-border-bottom: 3px solid #ccc;
+border-bottom: 1px solid #ccc;
 }
 .libro-romance {
 margin-bottom: 30px;
 padding-bottom: 20px;
-border-bottom: 3px solid #fff;
+border-bottom: 1px solid #fff;
 }
 .libro-contemporaneos {
 margin-bottom: 30px;
 padding-bottom: 20px;
-border-bottom: 3px solid #ccc;
+border-bottom: 1px solid #ccc;
 }
