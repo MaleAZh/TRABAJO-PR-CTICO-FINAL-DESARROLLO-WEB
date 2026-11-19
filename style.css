@@ -35,8 +35,8 @@ gap: 30px;
 justify-content: center;
    }
 
-   nav.menu li a :hover {
-      color: white;
+  nav.menu li a :hover {
+      color: rgb(208, 181, 46);
 text-decoration: underline;
    }
 h3 {
