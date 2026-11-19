@@ -36,9 +36,9 @@ justify-content: center;
    }
 
   nav.menu li a:hover {
-      color: rgb(189, 82, 154);
+     background-color: rgb(189, 82, 154);
 font-weight: bold;
-background-color: #f0ba31;
+color:  rgb(226, 152, 201);
 
    }
 h3 {
