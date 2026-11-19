@@ -36,8 +36,10 @@ justify-content: center;
    }
 
   nav.menu li a:hover {
-      color: rgb(255, 255, 255);
+      color: rgb(189, 82, 154);
 font-weight: bold;
+background-color: #f0ba31;
+
    }
 h3 {
    font-family: Arial, sans-serif;
