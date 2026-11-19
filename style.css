@@ -68,6 +68,11 @@ padding: 12px 0px;
 font-size: 17px;
 text-decoration: none;
 
+nav.menu li a {
+   padding: 8px 16px;
+   
+}
+
 }
 .menu ul {
    color: white;
